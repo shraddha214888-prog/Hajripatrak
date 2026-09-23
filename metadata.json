@@ -1,0 +1,6 @@
+{
+  "name": "Nani Umarvan Primary School - Std 7 Hajari Patrak",
+  "description": "Interactive photo-based attendance register (હાજરી પત્રક) for Std 7 at Nani Umarvan Primary School with 21 students (9 boys, 12 girls). Click photo to automatically mark attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
